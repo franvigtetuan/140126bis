@@ -2,7 +2,7 @@ package actividad1;
 
 import java.util.Scanner;
 
-//Fran Vigueras
+//Fran Vigueras Rodríguez
 public class CalculadoraMisteriosa {
 
 	public static void main(String[] args) {
